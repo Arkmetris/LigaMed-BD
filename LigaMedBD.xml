@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="F291-82-BFE2-71-1C36-88-74">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="60A4-B4-73DD-23-51E0-33-24">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -8,9 +8,9 @@
         <Height Valor="4096"/>
         <Alinhamento_v Valor="50"/>
         <Alinhamento_h Valor="60"/>
-        <Zoom Valor="150"/>
+        <Zoom Valor="175"/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Localizacao Left="0" Top="1522"/>
+        <Localizacao Left="784" Top="685"/>
         <Realce Valor="false"/>
     </InfoDiagrama>
     <Entidade ID="8">
@@ -94,7 +94,7 @@
         </Relacionamento>
     </EntidadeAssociativa>
     <Atributo ID="33">
-        <Bounds Height="14" Left="782" Top="853" Width="90"/>
+        <Bounds Height="14" Left="782" Top="853" Width="89"/>
         <DisablePainted Valor="false"/>
         <Texto>Código SKU</Texto>
         <Observacao/>
@@ -168,7 +168,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="37">
-        <Bounds Height="14" Left="496" Top="943" Width="122"/>
+        <Bounds Height="14" Left="496" Top="943" Width="120"/>
         <DisablePainted Valor="false"/>
         <Texto>Nome Comercial</Texto>
         <Observacao/>
@@ -197,14 +197,14 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="37" PontaB="8"/>
         <Pontos>
-            <Ponto Left="616" Top="947"/>
-            <Ponto Left="635" Top="947"/>
-            <Ponto Left="635" Top="947"/>
+            <Ponto Left="614" Top="947"/>
+            <Ponto Left="634" Top="947"/>
+            <Ponto Left="634" Top="947"/>
             <Ponto Left="655" Top="947"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="39">
-        <Bounds Height="14" Left="749" Top="796" Width="86"/>
+        <Bounds Height="14" Left="749" Top="796" Width="87"/>
         <DisablePainted Valor="false"/>
         <Texto>Fabricante</Texto>
         <Observacao/>
@@ -361,7 +361,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="196">
-        <Bounds Height="14" Left="76" Top="823" Width="59"/>
+        <Bounds Height="14" Left="76" Top="823" Width="58"/>
         <DisablePainted Valor="false"/>
         <Texto>Nome</Texto>
         <Observacao/>
@@ -435,7 +435,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="200">
-        <Bounds Height="14" Left="104" Top="861" Width="108"/>
+        <Bounds Height="14" Left="104" Top="861" Width="109"/>
         <DisablePainted Valor="false"/>
         <Texto>ID_Fornecedor</Texto>
         <Observacao/>
@@ -472,7 +472,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="204">
-        <Bounds Height="14" Left="29" Top="973" Width="77"/>
+        <Bounds Height="14" Left="29" Top="973" Width="76"/>
         <DisablePainted Valor="false"/>
         <Texto>Contatos</Texto>
         <Observacao/>
@@ -539,14 +539,14 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="204" PontaB="206"/>
         <Pontos>
-            <Ponto Left="104" Top="977"/>
-            <Ponto Left="123" Top="977"/>
-            <Ponto Left="123" Top="968"/>
+            <Ponto Left="103" Top="977"/>
+            <Ponto Left="122" Top="977"/>
+            <Ponto Left="122" Top="968"/>
             <Ponto Left="142" Top="968"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="208">
-        <Bounds Height="14" Left="146" Top="983" Width="74"/>
+        <Bounds Height="14" Left="146" Top="983" Width="75"/>
         <DisablePainted Valor="false"/>
         <Texto>Telefone</Texto>
         <Observacao/>
@@ -575,14 +575,14 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="204" PontaB="208"/>
         <Pontos>
-            <Ponto Left="104" Top="977"/>
-            <Ponto Left="123" Top="977"/>
-            <Ponto Left="123" Top="987"/>
+            <Ponto Left="103" Top="977"/>
+            <Ponto Left="122" Top="977"/>
+            <Ponto Left="122" Top="987"/>
             <Ponto Left="142" Top="987"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="217">
-        <Bounds Height="14" Left="43" Top="785" Width="77"/>
+        <Bounds Height="14" Left="43" Top="785" Width="78"/>
         <DisablePainted Valor="false"/>
         <Texto>Endereço</Texto>
         <Observacao/>
@@ -619,7 +619,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="219">
-        <Bounds Height="14" Left="161" Top="738" Width="62"/>
+        <Bounds Height="14" Left="161" Top="738" Width="63"/>
         <DisablePainted Valor="false"/>
         <Texto>Estado</Texto>
         <Observacao/>
@@ -648,14 +648,14 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="217" PontaB="219"/>
         <Pontos>
-            <Ponto Left="118" Top="789"/>
-            <Ponto Left="137" Top="789"/>
-            <Ponto Left="137" Top="742"/>
+            <Ponto Left="119" Top="789"/>
+            <Ponto Left="138" Top="789"/>
+            <Ponto Left="138" Top="742"/>
             <Ponto Left="157" Top="742"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="221">
-        <Bounds Height="14" Left="161" Top="795" Width="72"/>
+        <Bounds Height="14" Left="161" Top="795" Width="71"/>
         <DisablePainted Valor="false"/>
         <Texto>Numero</Texto>
         <Observacao/>
@@ -684,9 +684,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="217" PontaB="221"/>
         <Pontos>
-            <Ponto Left="118" Top="789"/>
-            <Ponto Left="137" Top="789"/>
-            <Ponto Left="137" Top="799"/>
+            <Ponto Left="119" Top="789"/>
+            <Ponto Left="138" Top="789"/>
+            <Ponto Left="138" Top="799"/>
             <Ponto Left="157" Top="799"/>
         </Pontos>
     </Ligacao>
@@ -720,9 +720,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="217" PontaB="223"/>
         <Pontos>
-            <Ponto Left="118" Top="789"/>
-            <Ponto Left="137" Top="789"/>
-            <Ponto Left="137" Top="818"/>
+            <Ponto Left="119" Top="789"/>
+            <Ponto Left="138" Top="789"/>
+            <Ponto Left="138" Top="818"/>
             <Ponto Left="157" Top="818"/>
         </Pontos>
     </Ligacao>
@@ -756,9 +756,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="217" PontaB="225"/>
         <Pontos>
-            <Ponto Left="118" Top="789"/>
-            <Ponto Left="137" Top="789"/>
-            <Ponto Left="137" Top="780"/>
+            <Ponto Left="119" Top="789"/>
+            <Ponto Left="138" Top="789"/>
+            <Ponto Left="138" Top="780"/>
             <Ponto Left="157" Top="780"/>
         </Pontos>
     </Ligacao>
@@ -792,14 +792,14 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="217" PontaB="227"/>
         <Pontos>
-            <Ponto Left="118" Top="789"/>
-            <Ponto Left="137" Top="789"/>
-            <Ponto Left="137" Top="837"/>
+            <Ponto Left="119" Top="789"/>
+            <Ponto Left="138" Top="789"/>
+            <Ponto Left="138" Top="837"/>
             <Ponto Left="157" Top="837"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="231">
-        <Bounds Height="14" Left="161" Top="757" Width="45"/>
+        <Bounds Height="14" Left="161" Top="757" Width="44"/>
         <DisablePainted Valor="false"/>
         <Texto>Cep</Texto>
         <Observacao/>
@@ -828,14 +828,14 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="217" PontaB="231"/>
         <Pontos>
-            <Ponto Left="118" Top="789"/>
-            <Ponto Left="137" Top="789"/>
-            <Ponto Left="137" Top="761"/>
+            <Ponto Left="119" Top="789"/>
+            <Ponto Left="138" Top="789"/>
+            <Ponto Left="138" Top="761"/>
             <Ponto Left="157" Top="761"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="249">
-        <Bounds Height="14" Left="509" Top="896" Width="108"/>
+        <Bounds Height="14" Left="509" Top="896" Width="109"/>
         <DisablePainted Valor="false"/>
         <Texto>ID_Fornecedor</Texto>
         <Observacao/>
@@ -864,7 +864,7 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="249" PontaB="8"/>
         <Pontos>
-            <Ponto Left="615" Top="900"/>
+            <Ponto Left="616" Top="900"/>
             <Ponto Left="635" Top="900"/>
             <Ponto Left="635" Top="900"/>
             <Ponto Left="655" Top="900"/>
@@ -1051,7 +1051,7 @@
         </Cardinalidade>
     </Ligacao>
     <Atributo ID="280">
-        <Bounds Height="14" Left="405" Top="999" Width="113"/>
+        <Bounds Height="14" Left="405" Top="999" Width="114"/>
         <DisablePainted Valor="false"/>
         <Texto>Data_Expiracao</Texto>
         <Observacao/>
@@ -1260,7 +1260,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="365">
-        <Bounds Height="14" Left="975" Top="1145" Width="135"/>
+        <Bounds Height="14" Left="975" Top="1145" Width="137"/>
         <DisablePainted Valor="false"/>
         <Texto>Indicação_Principal</Texto>
         <Observacao/>
@@ -1296,7 +1296,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="369">
-        <Bounds Height="14" Left="770" Top="1224" Width="157"/>
+        <Bounds Height="14" Left="770" Top="1224" Width="158"/>
         <DisablePainted Valor="false"/>
         <Texto>Parte_utilizad a_planta</Texto>
         <Observacao/>
@@ -1332,7 +1332,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="372">
-        <Bounds Height="14" Left="770" Top="1205" Width="110"/>
+        <Bounds Height="14" Left="770" Top="1205" Width="111"/>
         <DisablePainted Valor="false"/>
         <Texto>Planta_Origem</Texto>
         <Observacao/>
@@ -1388,7 +1388,7 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="385" PontaB="383"/>
+        <Ligacoes PontaA="1170" PontaB="383"/>
         <Pontos>
             <Ponto Left="654" Top="1335"/>
             <Ponto Left="654" Top="1361"/>
@@ -1409,15 +1409,6 @@
             <Papel Valor=""/>
         </Cardinalidade>
     </Ligacao>
-    <Relacionamento ID="385">
-        <Bounds Height="50" Left="582" Top="1288" Width="150"/>
-        <DisablePainted Valor="false"/>
-        <Texto>Exige</Texto>
-        <Observacao/>
-        <Dicionario/>
-        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Ancorado Valor="false"/>
-    </Relacionamento>
     <Ligacao ID="387">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
@@ -1429,7 +1420,7 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="260" PontaB="385"/>
+        <Ligacoes PontaA="260" PontaB="1170"/>
         <Pontos>
             <Ponto Left="654" Top="1247"/>
             <Ponto Left="654" Top="1266"/>
@@ -1487,7 +1478,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="393">
-        <Bounds Height="14" Left="750" Top="1403" Width="106"/>
+        <Bounds Height="14" Left="750" Top="1403" Width="107"/>
         <DisablePainted Valor="false"/>
         <Texto>Nome_Medico</Texto>
         <Observacao/>
@@ -1523,7 +1514,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="395">
-        <Bounds Height="14" Left="750" Top="1436" Width="115"/>
+        <Bounds Height="14" Left="750" Top="1436" Width="117"/>
         <DisablePainted Valor="false"/>
         <Texto>Dados_Paciente</Texto>
         <Observacao/>
@@ -1559,7 +1550,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="397">
-        <Bounds Height="14" Left="750" Top="1421" Width="104"/>
+        <Bounds Height="14" Left="750" Top="1421" Width="105"/>
         <DisablePainted Valor="false"/>
         <Texto>Data_Emissão</Texto>
         <Observacao/>
@@ -1744,7 +1735,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="454">
-        <Bounds Height="14" Left="1193" Top="827" Width="73"/>
+        <Bounds Height="14" Left="1193" Top="827" Width="74"/>
         <DisablePainted Valor="false"/>
         <Texto>Validade</Texto>
         <Observacao/>
@@ -1781,7 +1772,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="456">
-        <Bounds Height="14" Left="1207" Top="846" Width="129"/>
+        <Bounds Height="14" Left="1207" Top="846" Width="130"/>
         <DisablePainted Valor="false"/>
         <Texto>Quantidade_atual</Texto>
         <Observacao/>
@@ -1818,7 +1809,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="458">
-        <Bounds Height="14" Left="1221" Top="865" Width="55"/>
+        <Bounds Height="14" Left="1221" Top="865" Width="56"/>
         <DisablePainted Valor="false"/>
         <Texto>Preço</Texto>
         <Observacao/>
@@ -1875,7 +1866,7 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="479" PontaB="477"/>
+        <Ligacoes PontaA="1168" PontaB="477"/>
         <Pontos>
             <Ponto Left="724" Top="727"/>
             <Ponto Left="724" Top="679"/>
@@ -1894,15 +1885,6 @@
             <Papel Valor=""/>
         </Cardinalidade>
     </Ligacao>
-    <Relacionamento ID="479">
-        <Bounds Height="50" Left="652" Top="730" Width="150"/>
-        <DisablePainted Valor="false"/>
-        <Texto>Refere-se</Texto>
-        <Observacao/>
-        <Dicionario/>
-        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Ancorado Valor="false"/>
-    </Relacionamento>
     <Relacionamento ID="499">
         <Bounds Height="50" Left="10" Top="167" Width="150"/>
         <DisablePainted Valor="false"/>
@@ -1965,7 +1947,7 @@
             <Ponto Left="82" Top="214"/>
         </Pontos>
         <Cardinalidade ID="503">
-            <Bounds Height="17" Left="74" Top="230" Width="132"/>
+            <Bounds Height="17" Left="74" Top="230" Width="133"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_12</Texto>
             <Observacao/>
@@ -2205,7 +2187,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="552">
-        <Bounds Height="14" Left="253" Top="16" Width="111"/>
+        <Bounds Height="14" Left="253" Top="16" Width="112"/>
         <DisablePainted Valor="false"/>
         <Texto>ID_Funcionário</Texto>
         <Observacao/>
@@ -2353,7 +2335,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="560">
-        <Bounds Height="14" Left="309" Top="92" Width="50"/>
+        <Bounds Height="14" Left="309" Top="92" Width="51"/>
         <DisablePainted Valor="false"/>
         <Texto>Sexo</Texto>
         <Observacao/>
@@ -2390,7 +2372,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="562">
-        <Bounds Height="14" Left="323" Top="111" Width="134"/>
+        <Bounds Height="14" Left="323" Top="111" Width="135"/>
         <DisablePainted Valor="false"/>
         <Texto>Nome_Funcionário</Texto>
         <Observacao/>
@@ -2501,7 +2483,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="569">
-        <Bounds Height="14" Left="675" Top="111" Width="111"/>
+        <Bounds Height="14" Left="675" Top="111" Width="112"/>
         <DisablePainted Valor="false"/>
         <Texto>ID_Funcionário</Texto>
         <Observacao/>
@@ -2538,7 +2520,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="571">
-        <Bounds Height="14" Left="689" Top="130" Width="59"/>
+        <Bounds Height="14" Left="689" Top="130" Width="58"/>
         <DisablePainted Valor="false"/>
         <Texto>Nome</Texto>
         <Observacao/>
@@ -2813,9 +2795,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="657" PontaB="477"/>
         <Pontos>
-            <Ponto Left="724" Top="529"/>
-            <Ponto Left="724" Top="533"/>
-            <Ponto Left="724" Top="533"/>
+            <Ponto Left="724" Top="505"/>
+            <Ponto Left="724" Top="563"/>
+            <Ponto Left="724" Top="563"/>
             <Ponto Left="724" Top="620"/>
         </Pontos>
         <Cardinalidade ID="658">
@@ -2833,7 +2815,7 @@
         </Cardinalidade>
     </Ligacao>
     <Relacionamento ID="657">
-        <Bounds Height="50" Left="652" Top="482" Width="150"/>
+        <Bounds Height="50" Left="652" Top="458" Width="150"/>
         <DisablePainted Valor="false"/>
         <Texto>Atende</Texto>
         <Observacao/>
@@ -2914,7 +2896,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="677">
-        <Bounds Height="14" Left="547" Top="633" Width="80"/>
+        <Bounds Height="14" Left="547" Top="633" Width="81"/>
         <DisablePainted Valor="false"/>
         <Texto>ID_Pedido</Texto>
         <Observacao/>
@@ -2946,7 +2928,7 @@
             <Ponto Left="663" Top="637"/>
             <Ponto Left="644" Top="637"/>
             <Ponto Left="644" Top="637"/>
-            <Ponto Left="625" Top="637"/>
+            <Ponto Left="626" Top="637"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="679">
@@ -2987,7 +2969,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="683">
-        <Bounds Height="14" Left="773" Top="571" Width="109"/>
+        <Bounds Height="14" Left="773" Top="571" Width="110"/>
         <DisablePainted Valor="false"/>
         <Texto>Preço_Unitário</Texto>
         <Observacao/>
@@ -3024,7 +3006,7 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="686">
-        <Bounds Height="14" Left="760" Top="552" Width="88"/>
+        <Bounds Height="14" Left="760" Top="552" Width="89"/>
         <DisablePainted Valor="false"/>
         <Texto>Valor_Total</Texto>
         <Observacao/>
@@ -3060,36 +3042,6 @@
             <Ponto Left="747" Top="620"/>
         </Pontos>
     </Ligacao>
-    <Ligacao ID="736">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="2"/>
-        <Ligacoes PontaA="521" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="633" Top="194"/>
-            <Ponto Left="552" Top="194"/>
-        </Pontos>
-        <Cardinalidade ID="737">
-            <Bounds Height="17" Left="603" Top="175" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_14</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="true"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="3"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
     <Ligacao ID="749">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
@@ -3105,10 +3057,10 @@
         <Pontos>
             <Ponto Left="613" Top="397"/>
             <Ponto Left="724" Top="397"/>
-            <Ponto Left="724" Top="479"/>
+            <Ponto Left="724" Top="455"/>
         </Pontos>
         <Cardinalidade ID="750">
-            <Bounds Height="17" Left="618" Top="406" Width="36"/>
+            <Bounds Height="17" Left="623" Top="382" Width="36"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_10</Texto>
             <Observacao/>
@@ -3117,36 +3069,6 @@
             <Ancorado Valor="false"/>
             <TamanhoAutmatico Valor="true"/>
             <Card Valor="0"/>
-            <MovimentacaoManual Valor="true"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="752">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="477"/>
-        <Pontos>
-            <Ponto Left="727" Top="529"/>
-            <Ponto Left="727" Top="620"/>
-        </Pontos>
-        <Cardinalidade ID="753">
-            <Bounds Height="17" Left="689" Top="599" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_17</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="3"/>
             <MovimentacaoManual Valor="false"/>
             <Papel Valor=""/>
         </Cardinalidade>
@@ -3162,7 +3084,7 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="479" PontaB="8"/>
+        <Ligacoes PontaA="1168" PontaB="8"/>
         <Pontos>
             <Ponto Left="724" Top="777"/>
             <Ponto Left="724" Top="830"/>
@@ -3173,36 +3095,6 @@
             <Bounds Height="17" Left="689" Top="862" Width="37"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_18</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="2"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="821">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="true"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="429" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="1151" Top="933"/>
-            <Ponto Left="1051" Top="933"/>
-        </Pontos>
-        <Cardinalidade ID="822">
-            <Bounds Height="17" Left="614" Top="910" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_2</Texto>
             <Observacao/>
             <Dicionario/>
             <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -3272,66 +3164,6 @@
             <Ponto Left="724" Top="964"/>
         </Pontos>
     </Ligacao>
-    <Ligacao ID="888">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="true"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="658" Top="1247"/>
-            <Ponto Left="658" Top="1286"/>
-        </Pontos>
-        <Cardinalidade ID="889">
-            <Bounds Height="17" Left="619" Top="1257" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_6</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="2"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="891">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="true"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="383"/>
-        <Pontos>
-            <Ponto Left="659" Top="1334"/>
-            <Ponto Left="659" Top="1386"/>
-        </Pontos>
-        <Cardinalidade ID="892">
-            <Bounds Height="17" Left="619" Top="1365" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_5</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
     <Ligacao ID="909">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
@@ -3343,10 +3175,10 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="910" PontaB="477"/>
+        <Ligacoes PontaA="1174" PontaB="477"/>
         <Pontos>
-            <Ponto Left="659" Top="549"/>
-            <Ponto Left="671" Top="549"/>
+            <Ponto Left="641" Top="542"/>
+            <Ponto Left="671" Top="542"/>
             <Ponto Left="671" Top="620"/>
         </Pontos>
         <Cardinalidade ID="911">
@@ -3363,15 +3195,6 @@
             <Papel Valor=""/>
         </Cardinalidade>
     </Ligacao>
-    <Relacionamento ID="910">
-        <Bounds Height="50" Left="512" Top="527" Width="150"/>
-        <DisablePainted Valor="false"/>
-        <Texto>Aprova</Texto>
-        <Observacao/>
-        <Dicionario/>
-        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Ancorado Valor="false"/>
-    </Relacionamento>
     <Ligacao ID="912">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
@@ -3383,15 +3206,15 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="619" PontaB="910"/>
+        <Ligacoes PontaA="619" PontaB="1174"/>
         <Pontos>
             <Ponto Left="456" Top="605"/>
-            <Ponto Left="482" Top="605"/>
-            <Ponto Left="482" Top="549"/>
-            <Ponto Left="509" Top="549"/>
+            <Ponto Left="469" Top="605"/>
+            <Ponto Left="469" Top="542"/>
+            <Ponto Left="491" Top="542"/>
         </Pontos>
         <Cardinalidade ID="913">
-            <Bounds Height="17" Left="454" Top="609" Width="37"/>
+            <Bounds Height="17" Left="466" Top="590" Width="37"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_20</Texto>
             <Observacao/>
@@ -3400,141 +3223,6 @@
             <Ancorado Valor="false"/>
             <TamanhoAutmatico Valor="true"/>
             <Card Valor="2"/>
-            <MovimentacaoManual Valor="true"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="919">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="920" PontaB="586"/>
-        <Pontos>
-            <Ponto Left="395" Top="481"/>
-            <Ponto Left="395" Top="454"/>
-            <Ponto Left="395" Top="454"/>
-            <Ponto Left="395" Top="427"/>
-        </Pontos>
-        <Cardinalidade ID="921">
-            <Bounds Height="17" Left="361" Top="437" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_21</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Relacionamento ID="920">
-        <Bounds Height="31" Left="371" Top="484" Width="55"/>
-        <DisablePainted Valor="false"/>
-        <Texto> </Texto>
-        <Observacao/>
-        <Dicionario/>
-        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Ancorado Valor="false"/>
-    </Relacionamento>
-    <Ligacao ID="922">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="619" PontaB="920"/>
-        <Pontos>
-            <Ponto Left="395" Top="579"/>
-            <Ponto Left="395" Top="546"/>
-            <Ponto Left="395" Top="546"/>
-            <Ponto Left="395" Top="512"/>
-        </Pontos>
-        <Cardinalidade ID="923">
-            <Bounds Height="17" Left="361" Top="558" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_22</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="1"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="924">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="577" PontaB="920"/>
-        <Pontos>
-            <Ponto Left="264" Top="427"/>
-            <Ponto Left="264" Top="496"/>
-            <Ponto Left="368" Top="496"/>
-        </Pontos>
-        <Cardinalidade ID="925">
-            <Bounds Height="17" Left="230" Top="437" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_23</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="926">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="587" PontaB="920"/>
-        <Pontos>
-            <Ponto Left="539" Top="426"/>
-            <Ponto Left="539" Top="496"/>
-            <Ponto Left="423" Top="496"/>
-        </Pontos>
-        <Cardinalidade ID="927">
-            <Bounds Height="17" Left="505" Top="436" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_24</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
             <MovimentacaoManual Valor="false"/>
             <Papel Valor=""/>
         </Cardinalidade>
@@ -3552,78 +3240,15 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="657" PontaB="645"/>
         <Pontos>
-            <Ponto Left="799" Top="504"/>
-            <Ponto Left="838" Top="504"/>
+            <Ponto Left="799" Top="480"/>
+            <Ponto Left="838" Top="480"/>
             <Ponto Left="838" Top="504"/>
             <Ponto Left="877" Top="504"/>
         </Pontos>
         <Cardinalidade ID="937">
-            <Bounds Height="17" Left="837" Top="489" Width="36"/>
+            <Bounds Height="17" Left="837" Top="489" Width="37"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_15</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="939">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="477"/>
-        <Pontos>
-            <Ponto Left="643" Top="544"/>
-            <Ponto Left="676" Top="544"/>
-            <Ponto Left="676" Top="620"/>
-        </Pontos>
-        <Cardinalidade ID="940">
-            <Bounds Height="17" Left="636" Top="599" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_19</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="3"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="944">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="619" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="456" Top="601"/>
-            <Ponto Left="477" Top="601"/>
-            <Ponto Left="477" Top="545"/>
-            <Ponto Left="519" Top="545"/>
-        </Pontos>
-        <Cardinalidade ID="945">
-            <Bounds Height="17" Left="454" Top="609" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_20</Texto>
             <Observacao/>
             <Dicionario/>
             <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -3634,15 +3259,6 @@
             <Papel Valor=""/>
         </Cardinalidade>
     </Ligacao>
-    <Relacionamento ID="961">
-        <Bounds Height="50" Left="864" Top="384" Width="150"/>
-        <DisablePainted Valor="false"/>
-        <Texto>Pergunta</Texto>
-        <Observacao/>
-        <Dicionario/>
-        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Ancorado Valor="false"/>
-    </Relacionamento>
     <Entidade ID="974">
         <Bounds Height="58" Left="867" Top="295" Width="120"/>
         <DisablePainted Valor="false"/>
@@ -3664,7 +3280,7 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="961" PontaB="974"/>
+        <Ligacoes PontaA="1158" PontaB="974"/>
         <Pontos>
             <Ponto Left="1011" Top="406"/>
             <Ponto Left="1021" Top="406"/>
@@ -3672,7 +3288,7 @@
             <Ponto Left="984" Top="322"/>
         </Pontos>
         <Cardinalidade ID="976">
-            <Bounds Height="17" Left="994" Top="307" Width="36"/>
+            <Bounds Height="17" Left="994" Top="307" Width="37"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_26</Texto>
             <Observacao/>
@@ -3680,7 +3296,7 @@
             <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
             <Ancorado Valor="false"/>
             <TamanhoAutmatico Valor="true"/>
-            <Card Valor="1"/>
+            <Card Valor="3"/>
             <MovimentacaoManual Valor="false"/>
             <Papel Valor=""/>
         </Cardinalidade>
@@ -3696,7 +3312,7 @@
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="645" PontaB="961"/>
+        <Ligacoes PontaA="645" PontaB="1158"/>
         <Pontos>
             <Ponto Left="936" Top="469"/>
             <Ponto Left="936" Top="450"/>
@@ -3704,7 +3320,7 @@
             <Ponto Left="936" Top="431"/>
         </Pontos>
         <Cardinalidade ID="984">
-            <Bounds Height="17" Left="900" Top="453" Width="36"/>
+            <Bounds Height="17" Left="900" Top="453" Width="37"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_16</Texto>
             <Observacao/>
@@ -3712,7 +3328,7 @@
             <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
             <Ancorado Valor="false"/>
             <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
+            <Card Valor="2"/>
             <MovimentacaoManual Valor="true"/>
             <Papel Valor=""/>
         </Cardinalidade>
@@ -3736,7 +3352,7 @@
             <Ponto Left="863" Top="319"/>
         </Pontos>
         <Cardinalidade ID="995">
-            <Bounds Height="17" Left="823" Top="304" Width="36"/>
+            <Bounds Height="17" Left="823" Top="304" Width="37"/>
             <DisablePainted Valor="false"/>
             <Texto>Cardinalidade_25</Texto>
             <Observacao/>
@@ -3744,7 +3360,7 @@
             <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
             <Ancorado Valor="false"/>
             <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
+            <Card Valor="2"/>
             <MovimentacaoManual Valor="false"/>
             <Papel Valor=""/>
         </Cardinalidade>
@@ -3752,7 +3368,7 @@
     <Relacionamento ID="994">
         <Bounds Height="50" Left="663" Top="297" Width="150"/>
         <DisablePainted Valor="false"/>
-        <Texto>Resposta</Texto>
+        <Texto>Responde</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -3862,7 +3478,93 @@
         <Tipo Valor="0"/>
         <Itens/>
     </Legenda>
-    <Ligacao ID="1059">
+    <EntidadeAssociativa ID="1159">
+        <Bounds Height="68" Left="856" Top="376" Width="168"/>
+        <DisablePainted Valor="false"/>
+        <Texto/>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+        <Relacionamento ID="1158">
+            <DisablePainted Valor="false"/>
+            <Texto>Pergunta</Texto>
+            <Observacao/>
+            <Dicionario/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+        </Relacionamento>
+    </EntidadeAssociativa>
+    <EntidadeAssociativa ID="1169">
+        <Bounds Height="68" Left="644" Top="722" Width="168"/>
+        <DisablePainted Valor="false"/>
+        <Texto/>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+        <Relacionamento ID="1168">
+            <DisablePainted Valor="false"/>
+            <Texto>Refere-se</Texto>
+            <Observacao/>
+            <Dicionario/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+        </Relacionamento>
+    </EntidadeAssociativa>
+    <EntidadeAssociativa ID="1171">
+        <Bounds Height="68" Left="574" Top="1280" Width="168"/>
+        <DisablePainted Valor="false"/>
+        <Texto/>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+        <Relacionamento ID="1170">
+            <DisablePainted Valor="false"/>
+            <Texto>Exige</Texto>
+            <Observacao/>
+            <Dicionario/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+        </Relacionamento>
+    </EntidadeAssociativa>
+    <EntidadeAssociativa ID="1175">
+        <Bounds Height="68" Left="486" Top="512" Width="168"/>
+        <DisablePainted Valor="false"/>
+        <Texto/>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+        <Relacionamento ID="1174">
+            <DisablePainted Valor="false"/>
+            <Texto>Aprova</Texto>
+            <Observacao/>
+            <Dicionario/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+        </Relacionamento>
+    </EntidadeAssociativa>
+    <Especializacao ID="1218">
+        <Bounds Height="32" Left="384" Top="493" Width="40"/>
+        <DisablePainted Valor="false"/>
+        <Texto>Especialização_8</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="true"/>
+        <Direcao Valor="0"/>
+        <Ocupado01 ID="1218"/>
+        <Ocupado02 ID="-1"/>
+        <Ocupado03 ID="-1"/>
+        <Parcial Valor="false"/>
+    </Especializacao>
+    <Ligacao ID="1219">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
         <Dashed Valor="false"/>
@@ -3871,28 +3573,15 @@
         <TemSetaPontaB Valor="false"/>
         <SetaAberta Valor="true"/>
         <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
+        <Inteligente Valor="false"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="645"/>
+        <Ligacoes PontaA="586" PontaB="1218"/>
         <Pontos>
-            <Ponto Left="790" Top="507"/>
-            <Ponto Left="877" Top="507"/>
+            <Ponto Left="401" Top="427"/>
+            <Ponto Left="401" Top="490"/>
         </Pontos>
-        <Cardinalidade ID="1060">
-            <Bounds Height="17" Left="835" Top="489" Width="38"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_15</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
     </Ligacao>
-    <Ligacao ID="1067">
+    <Ligacao ID="1220">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
         <Dashed Valor="false"/>
@@ -3901,331 +3590,46 @@
         <TemSetaPontaB Valor="false"/>
         <SetaAberta Valor="true"/>
         <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
+        <Inteligente Valor="false"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="974"/>
+        <Ligacoes PontaA="1218" PontaB="619"/>
         <Pontos>
-            <Ponto Left="805" Top="321"/>
-            <Ponto Left="863" Top="321"/>
+            <Ponto Left="401" Top="522"/>
+            <Ponto Left="398" Top="579"/>
         </Pontos>
-        <Cardinalidade ID="1068">
-            <Bounds Height="17" Left="823" Top="303" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_25</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
     </Ligacao>
-    <Ligacao ID="1072">
+    <Ligacao ID="1221">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
         <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
+        <Ancorado Valor="true"/>
         <TemSetaPontaA Valor="false"/>
         <TemSetaPontaB Valor="false"/>
         <SetaAberta Valor="true"/>
         <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
+        <Inteligente Valor="false"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="587" PontaB="-1"/>
+        <Ligacoes PontaA="-1" PontaB="587"/>
         <Pontos>
-            <Ponto Left="613" Top="383"/>
-            <Ponto Left="631" Top="383"/>
-            <Ponto Left="631" Top="322"/>
-            <Ponto Left="668" Top="322"/>
+            <Ponto Left="400" Top="492"/>
+            <Ponto Left="555" Top="426"/>
         </Pontos>
-        <Cardinalidade ID="1073">
-            <Bounds Height="17" Left="625" Top="363" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_27</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
     </Ligacao>
-    <Ligacao ID="1086">
+    <Ligacao ID="1226">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
         <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
+        <Ancorado Valor="true"/>
         <TemSetaPontaA Valor="false"/>
         <TemSetaPontaB Valor="false"/>
         <SetaAberta Valor="true"/>
         <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="974"/>
+        <Ligacoes PontaA="577" PontaB="-1"/>
         <Pontos>
-            <Ponto Left="1002" Top="409"/>
-            <Ponto Left="1025" Top="409"/>
-            <Ponto Left="1024" Top="319"/>
-            <Ponto Left="984" Top="319"/>
+            <Ponto Left="251" Top="427"/>
+            <Ponto Left="402" Top="492"/>
         </Pontos>
-        <Cardinalidade ID="1087">
-            <Bounds Height="17" Left="994" Top="307" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_26</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1093">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="587" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="613" Top="394"/>
-            <Ponto Left="727" Top="394"/>
-            <Ponto Left="727" Top="480"/>
-        </Pontos>
-        <Cardinalidade ID="1094">
-            <Bounds Height="17" Left="618" Top="406" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_10</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1099">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="8"/>
-        <Pontos>
-            <Ponto Left="727" Top="776"/>
-            <Ponto Left="727" Top="883"/>
-        </Pontos>
-        <Cardinalidade ID="1100">
-            <Bounds Height="17" Left="689" Top="862" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_18</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="2"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1105">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="477"/>
-        <Pontos>
-            <Ponto Left="728" Top="728"/>
-            <Ponto Left="728" Top="679"/>
-        </Pontos>
-        <Cardinalidade ID="1106">
-            <Bounds Height="17" Left="687" Top="689" Width="39"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_9</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="2"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1112">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="12"/>
-        <Pontos>
-            <Ponto Left="331" Top="930"/>
-            <Ponto Left="127" Top="930"/>
-        </Pontos>
-        <Cardinalidade ID="1113">
-            <Bounds Height="17" Left="137" Top="910" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_1</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="2"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1122">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="-1" PontaB="259"/>
-        <Pontos>
-            <Ponto Left="293" Top="1153"/>
-            <Ponto Left="293" Top="1200"/>
-        </Pontos>
-        <Cardinalidade ID="1123">
-            <Bounds Height="17" Left="254" Top="1179" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_3</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="2"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1125">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="258" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="377" Top="1083"/>
-            <Ponto Left="294" Top="1083"/>
-            <Ponto Left="294" Top="1106"/>
-        </Pontos>
-        <Cardinalidade ID="1126">
-            <Bounds Height="17" Left="337" Top="1064" Width="36"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_4</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1139">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="8" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="789" Top="935"/>
-            <Ponto Left="928" Top="936"/>
-        </Pontos>
-        <Cardinalidade ID="1140">
-            <Bounds Height="17" Left="799" Top="914" Width="37"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_8</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="0"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
-    </Ligacao>
-    <Ligacao ID="1150">
-        <DisablePainted Valor="false"/>
-        <Tag LinhaMestre="-1"/>
-        <Dashed Valor="false"/>
-        <Ancorado Valor="false"/>
-        <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="false"/>
-        <SetaAberta Valor="true"/>
-        <SetaLargura Valor="10"/>
-        <Inteligente Valor="true"/>
-        <Largura Valor="1"/>
-        <Ligacoes PontaA="8" PontaB="-1"/>
-        <Pontos>
-            <Ponto Left="655" Top="929"/>
-            <Ponto Left="454" Top="929"/>
-        </Pontos>
-        <Cardinalidade ID="1151">
-            <Bounds Height="17" Left="612" Top="910" Width="39"/>
-            <DisablePainted Valor="false"/>
-            <Texto>Cardinalidade_2</Texto>
-            <Observacao/>
-            <Dicionario/>
-            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-            <Ancorado Valor="false"/>
-            <TamanhoAutmatico Valor="true"/>
-            <Card Valor="2"/>
-            <MovimentacaoManual Valor="false"/>
-            <Papel Valor=""/>
-        </Cardinalidade>
     </Ligacao>
 </DIAGRAMA>
